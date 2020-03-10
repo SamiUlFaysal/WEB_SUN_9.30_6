@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Bellota|Geostar&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Exo&display=swap');
+
+
+.dd {
+
+    padding: 5px;
+    border: 5px solid red;
+    border-radius: 20px;
+    top: 2px;
+}
+
+.ff {
+    font-family: Alex Brush !important;
+    text-align: center;
+
+}
+
+.gf {
+    font-family: Bellota;
+
+}
+
+.exo {
+    font-family: Exo;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic;
+
+}
+
+.bt {
+    padding: 14px 22px;
+    border: none;
+    background:#c0b3b3;
+    border-radius: 0;
+}
+
+.blink {
+    text-decoration: none;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+}
+
+.blink:hover , .bt:hover {
+    text-decoration: none;
+    background:#0e0d0d;
+    color: rgb(255, 255, 255);
+}
+
+.blink:visited{
+    color:brown;
+}
+.blink:active{
+    color:rgb(38, 52, 172);
+}
+
+.vid{
+
+    height: 320px;
+    width: 720px;
+}
